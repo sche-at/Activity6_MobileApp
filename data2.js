@@ -1,0 +1,23 @@
+export const profiles =[
+	{"id":"1","userName":"skester0","password":"sE6?6?X`(","userType":"Student","name":{"firstName":"Shelba","lastName":"Kester"},"course":"BSIT","yearSection":"2B"},
+    {"id":"2","userName":"ecraighill1","password":"lA1%*@DdZW10(Gx","userType":"Admin","name":{"firstName":"Erich","lastName":"Craighill"},"course":"BSIT","yearSection":"1A"},
+    {"id":"3","userName":"wodonovan2","password":"hN3+529T~#HDA","userType":"Admin","name":{"firstName":"Wald","lastName":"O'Donovan"},"course":"BSECE","yearSection":"3B"},
+    {"id":"4","userName":"dsalatino3","password":"bV7{EMS(","userType":"Admin","name":{"firstName":"Dean","lastName":"Salatino"},"course":"BSCS","yearSection":"2A"},
+    {"id":"5","userName":"gbeernaert4","password":"jG4_TmKo%Ce7c/?q","userType":"Admin","name":{"firstName":"Gayel","lastName":"Beernaert"},"course":"BSME","yearSection":"4B"},
+    {"id":"6","userName":"eroland5","password":"nH8&yNu&|","userType":"Teacher","name":{"firstName":"Ewart","lastName":"Roland"},"course":"BSME","yearSection":"3A"},
+    {"id":"7","userName":"nmelesk6","password":"pV0?f8oAF","userType":"Admin","name":{"firstName":"Nani","lastName":"Melesk"},"course":"BSME","yearSection":"3B"},
+    {"id":"8","userName":"sbarnewall7","password":"nE7@MYoSu|0c7$Zu","userType":"Admin","name":{"firstName":"Sherrie","lastName":"Barnewall"},"course":"BSECE","yearSection":"2A"},
+    {"id":"9","userName":"dmacbane8","password":"yE3>Uy0''g}RA%<","userType":"Admin","name":{"firstName":"Durant","lastName":"Macbane"},"course":"BSME","yearSection":"4A"},
+    {"id":"10","userName":"lworboys9","password":"vV3<}&4n_.!>","userType":"Student","name":{"firstName":"Lorettalorna","lastName":"Worboys"},"course":"BSME","yearSection":"4A"},
+    {"id":"11","userName":"mwheelikera","password":"bA2%EFJ2K4$@9'Ay","userType":"Admin","name":{"firstName":"Malena","lastName":"Wheeliker"},"course":"BSBA","yearSection":"2A"},
+    {"id":"12","userName":"kgreestb","password":"lP9'Cm.+%Tm","userType":"Admin","name":{"firstName":"Kari","lastName":"Greest"},"course":"BSBA","yearSection":"2A"},
+    {"id":"13","userName":"dwainc","password":"aN9./Jz\\U\\","userType":"Admin","name":{"firstName":"Dermot","lastName":"Wain"},"course":"BSBA","yearSection":"3A"},
+    {"id":"14","userName":"scounihand","password":"qP1+UMoFk.amR`V","userType":"Admin","name":{"firstName":"Stesha","lastName":"Counihan"},"course":"BSCS","yearSection":"4B"},
+    {"id":"15","userName":"ctommasie","password":"tW5\"=2}=v<oT3k","userType":"Student","name":{"firstName":"Conrado","lastName":"Tommasi"},"course":"BSCS","yearSection":"2A"},
+    {"id":"16","userName":"trawlesf","password":"uZ5_x>D.","userType":"Teacher","name":{"firstName":"Terrell","lastName":"Rawles"},"course":"BSBA","yearSection":"1B"},
+    {"id":"17","userName":"dblesdillg","password":"gE0@IfD`#35OhR{","userType":"Admin","name":{"firstName":"Daisey","lastName":"Blesdill"},"course":"BSECE","yearSection":"3A"},
+    {"id":"18","userName":"mainsleeh","password":"kZ5<P`rf_2S}`8","userType":"Teacher","name":{"firstName":"Marshal","lastName":"Ainslee"},"course":"BSBA","yearSection":"3B"},
+    {"id":"19","userName":"mbartalinii","password":"hK3$y7aMPkPIX","userType":"Student","name":{"firstName":"Maurizio","lastName":"Bartalini"},"course":"BSECE","yearSection":"4B"},
+    {"id":"20","userName":"fudiej","password":"iL1/zfl+yOdk{","userType":"Student","name":{"firstName":"Flossie","lastName":"Udie"},"course":"BSECE","yearSection":"2A"},
+];
+export default profiles;
